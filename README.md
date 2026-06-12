@@ -1,2 +1,0 @@
-# private
-my coding repository
